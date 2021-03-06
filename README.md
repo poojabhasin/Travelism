@@ -16,27 +16,27 @@ It is based upon pure MVC Architecture.
 
 1. Home Screen
 
-![Travelism](Resources/HomeScreen)
+![Travelism](Resources/HomeScreen.png)
 
 2. Destinations Screen
 
-![Travelism](Resources/Destinations)
+![Travelism](Resources/Destinations.png)
 
 3. Flights Details
 
-![Travelism](Resources/FlightsList)
+![Travelism](Resources/FlightsList.png)
 
 4. Airports List
 
-![Travelism](Resources/AirportsList)
+![Travelism](Resources/AirportsList.png)
 
 5. Booking
 
-![Travelism](Resources/Booking)
+![Travelism](Resources/Booking.png)
 
 6. Favorites Screen
 
-![Travelism](Resources/Favorites)
+![Travelism](Resources/Favorites.png)
 
 ## TODO
 
