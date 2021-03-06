@@ -16,27 +16,46 @@ It is based upon pure MVC Architecture.
 
 1. Home Screen
 
-![Travelism](Resources/HomeScreen.png)
+</br>
+<p align="left" >
+  <img width="160" height="320" src="https://github.com/poojabhasin/Travelism/blob/main/Resources/HomeScreen.png" title="Home" float=left>
+</p>
 
 2. Destinations Screen
 
-![Travelism](Resources/Destinations.png)
+</br>
+<p align="left" >
+  <img width="160" height="320" src="https://github.com/poojabhasin/Travelism/blob/main/Resources/Destinations.png" title="Destinations" float=left>
+</p>
 
 3. Flights Details
 
-![Travelism](Resources/FlightsList.png)
+</br>
+<p align="left" >
+  <img width="160" height="320" src="https://github.com/poojabhasin/Travelism/blob/main/Resources/FlightsList.png" title="FlightsList" float=left>
+</p>
 
 4. Airports List
 
-![Travelism](Resources/AirportsList.png)
+</br>
+<p align="left" >
+  <img width="160" height="320" src="https://github.com/poojabhasin/Travelism/blob/main/Resources/AirportsList.png" title="AirportsList" float=left>
+</p>
 
 5. Booking
 
-![Travelism](Resources/Booking.png)
+</br>
+<p align="left" >
+  <img width="160" height="320" src="https://github.com/poojabhasin/Travelism/blob/main/Resources/Booking.png" title="Booking" float=left>
+</p>
 
 6. Favorites Screen
 
-![Travelism](Resources/Favorites.png)
+</br>
+<p align="left" >
+  <img width="160" height="320" src="https://github.com/poojabhasin/Travelism/blob/main/Resources/Favorites.png" title="Favorites" float=left>
+</p>
+
 
 ## TODO
 
