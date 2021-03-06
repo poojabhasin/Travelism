@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-Travel-Booking/Pods-Travel-Booking-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireObjectMapper/AlamofireObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/FCAlertView/FCAlertView.framework
+${BUILT_PRODUCTS_DIR}/FSPagerView/FSPagerView.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
